@@ -1,4 +1,4 @@
-# Please Visit Here: https://ifda.netlify.app
+# Please Visit Here: https://ifda.netlify.app/
 
 # Preivew:
 <img width="500" alt="Screen Shot 2022-07-08 at 19 22 38" src="https://user-images.githubusercontent.com/69543583/178088159-f11cacd3-0f0f-49b5-9b8c-9e787efdecbe.png">
