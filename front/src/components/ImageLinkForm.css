@@ -1,0 +1,7 @@
+.form {
+	width: 700px;
+	background-size: 60px 60px;
+  opacity: 0.8;
+  background-image: radial-gradient(#240202 0.5px, #fffafa 0.5px);
+  background-size: 10px 10px;
+}
