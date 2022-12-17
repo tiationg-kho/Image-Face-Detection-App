@@ -1,6 +1,3 @@
-# Please Visit Here: https://image-face-detection-app.vercel.app
-# (email: test@test.com, password: 123456)
-
 # Preview:
 <img width="500" alt="Screen Shot 2022-07-08 at 19 24 42" src="https://user-images.githubusercontent.com/69543583/178088672-38c03a10-6a74-430a-b83a-cd2289a9f785.png">
 
